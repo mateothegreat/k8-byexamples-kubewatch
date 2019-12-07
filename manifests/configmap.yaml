@@ -7,8 +7,8 @@ data:
     namespace: ""
     handler:
       slack:
-        token: "xoxb-437361268516-451993155254-2Oshxd61bbtxqQPleFNdvaKs"
-        channel: "#devops-kubernetes"
+        token: "changeme"
+        channel: "#changeme"
     resource:
       deployment: true
       replicationcontroller: true
